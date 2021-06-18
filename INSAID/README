@@ -1,1 +1,3 @@
-
+Churn prediction is the process of determining which consumers are most likely to cancel a service subscription based on how they use it. 
+We want to be able to forecast the answer to the following question for each present customer: “Will this customer leave us in the next X months?” 
+It's a binary classification task because there are only two viable answers: yes or no. Telecom firms have found that being able to predict turnover based on customer data is tremendously lucrative.
