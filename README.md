@@ -1,4 +1,4 @@
-##Repository to strategically prepare for placements.
+## Repository to strategically prepare for placements.
 
 This repository was created primarily to capture the _trend_ of the challenges and the evolution coding questions given by various companies, during on-campus placements in **Kalinga Institute of Industrial Technology, 2022.** 
 
